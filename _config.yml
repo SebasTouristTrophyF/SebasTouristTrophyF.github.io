@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Dr.-Ing. Wentao Feng"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "An lEEE Member, received his Ph.D. from the Clausthal University of Technology (TU Clausthal) in Germany in Dec. 2019. He is currently a postdoctoral and assistant research fellow with the College of Computer Science, Sichuan University."
   location         : "Chengdu, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=TfvIKm4AAAAJ&view_op=list_works"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Wentao-Feng"
