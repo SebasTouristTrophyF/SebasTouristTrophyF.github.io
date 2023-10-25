@@ -11,9 +11,9 @@ title                    : "Maverick's Pit House"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sebastouristtrophyf.github.io # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "SebasTouristTrophyF/SebasTouristTrophyF.github.io"   # "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr.-Ing. Wentao Feng"
-  avatar           : "profile.png"
+  avatar           : "Wentao Feng.png"
   bio              : "An lEEE/CCF/SPE Member, received his Ph.D. from the Clausthal University of Technology (TU Clausthal) in Germany in Dec. 2019. He is currently a postdoctoral and assistant research fellow with the College of Computer Science, Sichuan University."
   location         : "Chengdu, China"
   employer         :
