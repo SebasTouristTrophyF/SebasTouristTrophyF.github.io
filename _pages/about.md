@@ -16,4 +16,8 @@ Publications
 
 2.        Muhammad Haris, Michael Z. Hou, Wentao Feng, Faisal Mehmood, Ammar b. Saleem, “A regenerative Enhanced Geothermal System for heat and electricity production as well as energy storage,” Renewable Energy, Vol. 197, pp. 342-358, Sep. 2022.
 
+Honors for project achievements:
+======
+Professor Feng Wentao has made significant contributions in modeling deep energy development based on hydraulic fracturing, engineering applications of multi-stage fracturing in geothermal resource development, and strategic planning for reducing and enhancing seismic risks in geothermal systems. His research results have been applied to the large-scale geothermal research project MAGS2 funded by the Federal Ministry of Economic Affairs and Energy (BMWi) in Germany and the DGMK-680 series project funded by the German Association for Sustainable Energy Carriers, Transportation, and Carbon Cycle (DGMK). The industrial intelligence methods and technologies for nuclear industry scenarios that were involved in the research have also been applied to engineering projects under China National Nuclear Corporation (CNNC)
+
 
