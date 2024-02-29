@@ -12,14 +12,11 @@ About me
 ======
 Starting from May 2021, I worked as a postdoctoral researcher and assistant researcher at the School of Computer Science (School of Software and School of Intelligent Science and Technology) of Sichuan University. From April 2015 to June 2020, I worked as a full-time researcher at Klaustal University of Technology/Lower Saxony Energy Research Center in Germany. Professor Feng Wentao has been engaged in research on computer simulation methods, simulation modeling related to the energy industry, and practical applications of computer simulation in the engineering field. He is also engaged in research on multi view learning and deep learning based simulation modeling of complex physical systems. At present, nearly 30 papers have been published in authoritative international and domestic academic journals and international conferences, including 13 papers indexed by SCI; Publish two academic monographs in English/German; 8 national patents have been applied for, and 3 have been authorized; Responsible for and participated in a total of 12 vertical and horizontal projects at all levels in China and Germany; I am a reviewer for five international authoritative academic journals, including TNNLS.
 
-Getting started
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1.        Shudong Huang, Hongjie Wu, Yazhou Ren, Ivor Tsang, Zenglin Xu, Wentao Feng, Jiancheng Lv, “Multi-view Subspace Clustering on Topological Manifold,” in Proceedings of the Advances in Neural Information Processing Systems 35 (NeurIPS 2022), pp. 1-12, Nov. 2022.
+
+2.        Muhammad Haris, Michael Z. Hou, Wentao Feng, Faisal Mehmood, Ammar b. Saleem, “A regenerative Enhanced Geothermal System for heat and electricity production as well as energy storage,” Renewable Energy, Vol. 197, pp. 342-358, Sep. 2022.
 
 Site-wide configuration
 ------
