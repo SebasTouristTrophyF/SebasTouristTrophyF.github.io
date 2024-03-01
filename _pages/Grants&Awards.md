@@ -3,7 +3,7 @@ permalink: /
 title: "Grants&Awards"
 author_profile: true
 redirect_from: 
-  - /talks.html
+  - /Grants&Awards.html
 ---
 
 Grants
