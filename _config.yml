@@ -181,10 +181,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  students:
     output: true
     permalink: /:collection/:path/
-  talks:
+  Grants&Awards:
     output: true
     permalink: /:collection/:path/
 
@@ -227,21 +227,21 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _stduents
   - scope:
       path: ""
-      type: portfolio
+      type: students
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _Grants&Awards
   - scope:
       path: ""
-      type: talks
+      type: Grants&Awards
     values:
-      layout: talk
+      layout: Grants&Awards
       author_profile: true
       share: true
 
