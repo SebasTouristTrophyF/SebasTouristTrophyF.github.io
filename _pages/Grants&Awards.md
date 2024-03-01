@@ -3,8 +3,8 @@ permalink: /
 title: "Grants&Awards"
 author_profile: true
 redirect_from: 
-  - /Grants&Awards.html
----
+  - /talks.html
+
 Grants
 ====
 国家自然科学基金青年基金项目，2024.01-2026.12，主持.
