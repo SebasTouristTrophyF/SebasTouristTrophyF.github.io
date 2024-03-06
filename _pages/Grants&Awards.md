@@ -1,5 +1,5 @@
 ---
-permalink: /
+
 title: "Grants&Awards"
 author_profile: true
 redirect_from: 
