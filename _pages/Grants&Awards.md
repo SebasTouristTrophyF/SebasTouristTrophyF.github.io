@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Grants&Awards"
-permalink: /talks/
+permalink: /Grants&Awards/
 author_profile: true
 ---
 
