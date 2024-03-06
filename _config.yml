@@ -230,7 +230,7 @@ defaults:
   # _stduents
   - scope:
       path: ""
-      type: students
+      type: Students
     values:
       layout: single
       author_profile: true
