@@ -8,13 +8,13 @@ author_profile: true
 2024
 ----
 1. Chenwei Tang, Jialiang Huang, Mao Xu, Xu Liu, Fan Yang, Wentao Feng, Zhenan He, Jiancheng Lv. Attention-based early warning framework for abnormal operating conditions in fluid catalytic cracking units, Applied Soft Computing Volume 153, 2024, 111275, ISSN 1568-4946,
-2. Yi Gao, Wentao Feng, Rong Xiao, Lihuo He, Zhenan He, Jiancheng Lv, Chenwei Tang,Improving generalized zero-shot learning via cluster-based semantic disentangling representation, Pattern Recognition, Volume 150,2024,110320,ISSN 0031-3203,
+2. Yi Gao, Wentao Feng, Rong Xiao, Lihuo He, Zhenan He, Jiancheng Lv, Chenwei Tang, Improving generalized zero-shot learning via cluster-based semantic disentangling representation, Pattern Recognition, Volume 150,2024,110320, ISSN 0031-3203,
 
 2023
 ----
 1. Caiyang Yu, Xianggen Liu, Wentao Feng, Chenwei Tang, Jiancheng Lv. GPT-NAS: Evolutionary Neural Architecture Search with the Generative Pre-Trained Model.arXiv:2305.05351
 2. Yuze Tan, Yixi Liu, Shudong Huang, Wentao Feng, Jiancheng Lv.Sample-Level Multi-View Graph Clustering. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, pp. 23966-23975
-3. Caiyang Yu, Yixi Wang, Chenwei Tang, Wentao Feng, Jiancheng Lv.EU-Net: Automatic U-Net neural architecture search with differential evolutionary algorithm for medical image segmentation, Computers in Biology and Medicine, Volume 167,2023,107579,ISSN 0010-4825.
+3. Caiyang Yu, Yixi Wang, Chenwei Tang, Wentao Feng, Jiancheng Lv.EU-Net: Automatic U-Net neural architecture search with differential evolutionary algorithm for medical image segmentation, Computers in Biology and Medicine, Volume 167,2023,107579, ISSN 0010-4825.
 4. Jizhe Zhou, Xiaochen Ma, Xia Du, Ahmed Y. Alhammadi, Wentao Feng.Pre-Training-Free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2023, pp. 22346-22356
 5. Chenwei Tang, Wenqiang Zhou, Dong Wang, Caiyang Yu, Zhenan He, Jizhe Zhou, Shudong Huang, Yi Gao, Jianming Chen, Wentao Feng, Jiancheng Lv.Analysis and Applications of Deep Learning with Finite Samples in Full Life-Cycle Intelligence of Nuclear Power Generation.	arXiv:2311.04247
 6. Muhammad Haris, Michael Zhengmeng Hou, Wentao Feng.An Innovative Concept of Regenerative Enhanced Geothermal Systems: A Field Case Study of The North German Basin.World Geothermal Congress 2023
@@ -22,7 +22,7 @@ author_profile: true
 2022
 ----
 1. Shudong Huang, Wentao Feng, Chenwei Tang, Jiancheng Lv.Partial Differential Equations Meet Deep Neural Networks: A Survey.arXiv:2211.05567
-2. Muhammad Haris, Michael Z. Hou, Wentao Feng, Faisal Mehmood, Ammar bin Saleem, A regenerative Enhanced Geothermal System for heat and electricity production as well as energy storage, Renewable Energy, Volume 197, 2022,Pages 342-358, ISSN 0960-1481.
+2. Muhammad Haris, Michael Z. Hou, Wentao Feng, Faisal Mehmood, Ammar bin Saleem, A regenerative Enhanced Geothermal System for heat and electricity production as well as energy storage, Renewable Energy, Volume 197, 2022, Pages 342-358, ISSN 0960-1481.
 3. hudong Huang, Hongjie Wu, Yazhou Ren, Ivor Tsang, Zenglin Xu, Wentao Feng, Jiancheng Lv.Multi-view Subspace Clustering on Topological Manifold.Advances in Neural Information Processing Systems 35 (NeurIPS 2022) Main Conference Track.
 
 2021
