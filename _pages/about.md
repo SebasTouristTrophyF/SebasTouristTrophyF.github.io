@@ -16,9 +16,9 @@ Professor Wentao Feng has made significant contributions to modeling deep energy
 
 Highlight publications
 ======
-1.        Shudong Huang<sup>1</sup>, Hongjie Wu<sup>1</sup>, Yazhou Ren, Ivor Tsang, Zenglin Xu, **Wentao Feng***, Jiancheng Lv*, “Multi-view Subspace Clustering on Topological Manifold,” in Proceedings of the Advances in Neural Information Processing Systems 35 (NeurIPS 2022), pp. 1-12, Nov. 2022. (CCF-A)
+1.        Shudong Huang<sup>1</sup>, Hongjie Wu<sup>1</sup>, Yazhou Ren, Ivor Tsang, Zenglin Xu, {**Wentao Feng**}*, Jiancheng Lv*, “Multi-view Subspace Clustering on Topological Manifold”, in Proceedings of the Advances in Neural Information Processing Systems 35 (NeurIPS 2022), pp. 1-12, Nov. 2022. (CCF-A)
 
-2.        Muhammad Haris, Michael Z. Hou, **Wentao Feng***, Faisal Mehmood, Ammar bin Saleem, “A regenerative Enhanced Geothermal System for heat and electricity production as well as energy storage,” Renewable Energy, Vol. 197, pp. 342-358, Sep. 2022. (CAS Journal Ranking Q1Top)
+2.        Muhammad Haris, Michael Z. Hou, **Wentao Feng***, Faisal Mehmood, Ammar bin Saleem, “A regenerative Enhanced Geothermal System for heat and electricity production as well as energy storage”, Renewable Energy, Vol. 197, pp. 342-358, Sep. 2022. (CAS Journal Ranking Q1Top)
 
 3.        Jizhe Zhou, Xiaochen Ma, Xia Du, Ahmad Khayyat, **Wentao Feng***, "Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning", in Proceedings of the International Conference on Computer Vision (ICCV) 2023, PP. 1-10, Jul. 2023. (CCF-A)
 
