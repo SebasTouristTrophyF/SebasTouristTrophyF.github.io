@@ -43,7 +43,5 @@ author_profile: true
 11. **Wentao Feng**, Zhengmeng Hou, Lei Zhou*, Mengting Li, Patrick Were, "Semi-analytical and numerical investigation of hydraulic fracturing and geological barrier integrity based on a case study", Environmental Earth Sciences, Vol. 73, pp. 5825-5842, May 2015.
 12. ...
 
-***: Corresponding author.**
-
-**<sup>1</sup>: First author.**
+\***: Corresponding author.**<br>**<sup>1</sup>: First author.**
 
