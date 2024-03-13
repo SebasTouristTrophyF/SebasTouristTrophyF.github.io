@@ -42,6 +42,8 @@ author_profile: true
 10. **Wentao Feng**, Patrick Were, Mengting Li, Zhengmeng Hou, Lei Zhou*, "Numerical study on hydraulic fracturing in tight gas formation in consideration of thermal effects and THM coupled processes", Journal of Petroleum Science and Engineering, Vol. 146, pp. 241-254, Oct. 2016. (CAS Journal Ranking Q2Top)
 11. **Wentao Feng**, Zhengmeng Hou, Lei Zhou*, Mengting Li, Patrick Were, "Semi-analytical and numerical investigation of hydraulic fracturing and geological barrier integrity based on a case study", Environmental Earth Sciences, Vol. 73, pp. 5825-5842, May 2015.
 12. ...
-
+<br>
+<br>
+<br>
 \***: Corresponding author.**<br>**<sup>1</sup>: First author.**
 
