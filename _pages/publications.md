@@ -32,7 +32,7 @@ author_profile: true
 2020 and before
 ----
 1. Muhammad Haris, Michael Z Hou, **Wentao Feng***, Jiashun Luo, Muhammad Khurram Zahoor, Jianxing Liao, "Investigative Coupled Thermo-Hydro-Mechanical Modelling Approach for Geothermal Heat Extraction through Multistage Hydraulic Fracturing from Hot Geothermal Sedimentary Systems", Energies, Vol. 13 Iss. 13, pp. 1-21, Jul. 2020. 
-2. Cheng Cao, Jianxing Liao*, Zhengmeng Hou, Gui Wang, Wentao Feng**Wentao Feng**, Yanli Fang, "Parametric uncertainty analysis for CO2 sequestration based on distance correlation and support vector regression", Journal of Natural Gas Science and Engineering, Vol. 77, pp. 1-16, May 2020.
+2. Cheng Cao, Jianxing Liao*, Zhengmeng Hou, Gui Wang, **Wentao Feng**, Yanli Fang, "Parametric uncertainty analysis for CO2 sequestration based on distance correlation and support vector regression", Journal of Natural Gas Science and Engineering, Vol. 77, pp. 1-16, May 2020.
 3. **Wentao Feng**, "Numerical study of the stimulation related thermo-hydro-mechanical processes in tight gas and deep geothermal reservoirs", Cuvillier Verlag Göttingen, 2020. (a solo work)
 4. Jianxing Liao, Yang Gou, **Wentao Feng**, Faisal Mehmood, Yachen Xie, Zhengmeng Hou*, "Development of a full 3D numerical model to investigate the hydraulic fracture propagation under the impact of orthogonal natural fractures", Acta Geotechnica, Vol. 15, pp. 279–295, Feb. 2020. (JCR Q1 and CAS Journal Ranking Q1Top)
 5. Cheng Cao, Hejuan Liu*, Zhengmeng Hou, Faisal Mehmood, Jianxing Liao*, **Wentao Feng**, "A Review of CO2 Storage in View of Safety and Cost-Effectiveness", Energies, Vol. 13 Iss. 3, pp. 1-45, Jan. 2020. 
