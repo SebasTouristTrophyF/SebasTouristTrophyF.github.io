@@ -12,7 +12,7 @@ a) at present, nearly 30 papers have been published in authoritative internation
 b) 2 academic monographs were published in English, and one is a solo work; <br>
 c) 8 national patents have been applied for, and 4 have been authorized; <br> 
 d) Responsible for and participated in a total of 12 government-sponsored research projects as well as consulting projects at all levels in China and Germany; <br> 
-e) A reviewer for five international authoritative academic journals, including IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
+e) A reviewer for 5 authoritative academic journals and 2 international conferences, including IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
 
 
 Honors for project achievements
