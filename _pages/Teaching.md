@@ -6,11 +6,11 @@ author_profile: true
 ---
 Discrete Mathematics:
 =======
-College of Computer Science, Sichuan University, 2022-2023 Spring.
+College of Computer Science, Sichuan University, 2022-2023 Spring.<br>
 College of Computer Science, Sichuan University, 2023-2024 Spring.
 
 Principle of Operating System:
 =======
-College of Computer Science, Sichuan University, 2021-2022 Autumn.
-College of Computer Science, Sichuan University, 2022-2023 Autumn.
+College of Computer Science, Sichuan University, 2021-2022 Autumn.<br>
+College of Computer Science, Sichuan University, 2022-2023 Autumn.<br>
 College of Computer Science, Sichuan University, 2023-2024 Autumn.
