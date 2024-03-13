@@ -23,5 +23,6 @@ Highlight publications
 3.        Jizhe Zhou, Xiaochen Ma, Xia Du, Ahmad Khayyat, **Wentao Feng***, "Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning", in Proceedings of the International Conference on Computer Vision (ICCV) 2023, PP. 1-10, Jul. 2023. (CCF-A)
 
 4.        **Wentao Feng**, "Numerical study of the stimulation related thermo-hydro-mechanical processes in tight gas and deep geothermal reservoirs", Cuvillier Verlag Göttingen, 2020. (a solo work)
-
+<br>
+<br>
 \***: Corresponding author.**<br>**<sup>1</sup>: First author.**
