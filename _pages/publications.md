@@ -39,7 +39,7 @@ author_profile: true
 7. Jianxin Liao, Michael Z Hou, Faisal Mehmood, **Wentao Feng\***, "A 3D approach to study the interaction between hydraulic and natural fracture", Environmental Earth Sciences, Vol. 78 Iss. 24, pp. 1-18, Dec. 2019.
 8. **Wentao Feng**, Zhengmeng Hou, Jianxing Liao, Patrick Were, "Numerical Study on the Strategies to Reduce the Risk of Induced Seismicity in an Enhanced Geothermal System", in Proceedings of ISRM European Rock Mechanics Symposium (EUROCK 2018), pp. 1-6, May 2018.
 9. Lei Zhou, Junchao Chen, Yang Gou, **Wentao Feng\***, "Numerical Investigation of the Time-Dependent and the Proppant Dominated Stress Shadow Effects in a Transverse Multiple Fracture System and Optimization", Energies, Vol. 10 Iss. 1, pp. 1-21, Jan. 2017.
-10. **Wentao Feng**, Patrick Were, Mengting Li, Zhengmeng Hou, Lei Zhou*, "Numerical study on hydraulic fracturing in tight gas formation in consideration of thermal effects and THM coupled processes", Journal of Petroleum Science and Engineering, Vol. 146, pp. 241-254, Oct. 2016. (**CAS Journal Ranking Q2Top**)
+10. **Wentao Feng**, Patrick Were, Mengting Li, Zhengmeng Hou, Lei Zhou*, "Numerical study on hydraulic fracturing in tight gas formation in consideration of thermal effects and THM coupled processes", Journal of Petroleum Science and Engineering, Vol. 146, pp. 241-254, Oct. 2016. (**CAS Journal Ranking Q2Top, 42 citations on Google Scholar**)
 11. **Wentao Feng**, Zhengmeng Hou, Lei Zhou*, Mengting Li, Patrick Were, "Semi-analytical and numerical investigation of hydraulic fracturing and geological barrier integrity based on a case study", Environmental Earth Sciences, Vol. 73, pp. 5825-5842, May 2015.
 12. ...
 <br>
