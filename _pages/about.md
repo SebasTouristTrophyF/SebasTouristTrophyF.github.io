@@ -29,6 +29,6 @@ Highlight publications
 
 4.        **Wentao Feng**, "Numerical study of the stimulation related thermo-hydro-mechanical processes in tight gas and deep geothermal reservoirs", Cuvillier Verlag Göttingen, 2020. (a solo work)
 <br>
-<br>
+<br> 
 
 **\*: Corresponding author.**<br>**<sup>1</sup>: First author.** <br> **CAS: Chinese Academy of Sciences**
