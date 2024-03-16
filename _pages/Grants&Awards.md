@@ -27,7 +27,7 @@ Grants
 
 Engie SA公司咨询项目，2017-2018，主研.
 
-德国联邦环境、自然资源和核能安全部（Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit，BMU，现：德国联邦环境、自然保护、核安全和消费者保护部 BMUV）项目，2010-2013，参与.
+德国联邦环境、自然资源和核安全部（Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit，BMU，现：德国联邦环境、自然保护、核安全和消费者保护部 BMUV）项目，2010-2013，参与.
 
 德国石油与煤科学技术协会（DGMK）项目，2012-2014，参与.
 
