@@ -21,13 +21,13 @@ Grants
 
 国家重点研发计划项目子课题，2022.11-2026.10，参与.
 
-德国联邦工业与能源部（Bundesministerium für Wirtschaft und Energie，BMWi，现：德国联邦经济和气候保护部 BMWK）项目，2013-2017，主研.
+德国联邦工业和能源部（Bundesministerium für Wirtschaft und Energie，BMWi，现：德国联邦经济和气候保护部 BMWK）项目，2013-2017，主研.
 
 德国石油与煤科学技术协会（DGMK，现：德国可持续能源载体、流动性和碳循环协会）项目，2015-2017，主研.
 
 Engie SA公司咨询项目，2017-2018，主研.
 
-德国联邦环境、自然资源与核能安全部（Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit，BMU，现：德国联邦环境、自然保护、核安全和消费者保护部 BMUV）项目，2010-2013，参与.
+德国联邦环境、自然资源和核能安全部（Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit，BMU，现：德国联邦环境、自然保护、核安全和消费者保护部 BMUV）项目，2010-2013，参与.
 
 德国石油与煤科学技术协会（DGMK）项目，2012-2014，参与.
 
