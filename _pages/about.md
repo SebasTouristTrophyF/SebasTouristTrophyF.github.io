@@ -10,7 +10,7 @@ Since May 2021, I have held the position of postdoctoral researcher and assistan
 Some academic works: <br>
 a) at present, nearly 30 papers have been published in authoritative international and domestic academic journals and international conferences, including 16 papers indexed by SCI; <br>
 b) 2 academic monographs were published in English, and one is a solo work; <br>
-c) 8 national patents have been applied for, and 4 have been authorized; <br> 
+c) 8 national patents have been applied for, and 5 have been authorized; <br> 
 d) Responsible for and participated in a total of 12 government-sponsored research projects as well as consulting projects at all levels in China and Germany; <br> 
 e) A reviewer for 5 authoritative academic journals and 2 international conferences, including IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
 
