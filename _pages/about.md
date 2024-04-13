@@ -5,6 +5,8 @@ author_profile: true
 redirect_from: 
   - /about.html
 ---
+**Schönen guten Tag! 祝您度过美好的一天！Have a good day!**
+
 Since May 2021, I have held the position of postdoctoral researcher and assistant researcher within the College of Computer Science (College of Software and School of Intelligent Science and Technology) at Sichuan University. My academic journey prior to this appointment involved a significant tenure from April 2015 to June 2020 as a full-time researcher at the Clausthal University of Technology (TU Clausthal) and the Lower Saxony Energy Research Center (EFZN) in Germany. Under the tutelage of Prof. Dr.-Ing. habil. Michael Z. Hou, my research has been deeply rooted in the exploration of computer simulation methodologies, with a particular focus on simulation modeling for the energy industry and the integration of computer simulation techniques within various engineering disciplines. Furthermore, my research interests have expanded to include multi-view learning and the application of deep learning in the simulation modeling of intricate physical systems.
 
 Some academic works: <br>
