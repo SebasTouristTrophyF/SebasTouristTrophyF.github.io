@@ -29,9 +29,11 @@ Highlight publications
 
 3.        Jizhe Zhou, Xiaochen Ma, Xia Du, Ahmad Khayyat, **Wentao Feng\***, "Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning", in Proceedings of the International Conference on Computer Vision (ICCV) 2023, PP. 1-10, Jul. 2023. (**CCF-A**)
 
-4.        **Wentao Feng**, "Numerical study of the stimulation related thermo-hydro-mechanical processes in tight gas and deep geothermal reservoirs", Cuvillier Verlag Göttingen, 2020. (**Monograph, a solo work**)
+4.        Shudong Huang, Hecheng Cai, Hao Dai, **Wentao Feng\***, Jiancheng Lv, "Adaptive Instance-wise Multi-view Clustering", in Proceedings of the 32nd ACM Multimedia Conference (MM 2024), pp. 1-9, Oct. 2024. (**CCF-A**)
 
-5.        **Wentao Feng**, Patrick Were, Mengting Li, Zhengmeng Hou, Lei Zhou*, "Numerical study on hydraulic fracturing in tight gas formation in consideration of thermal effects and THM coupled processes", Journal of Petroleum Science and Engineering, Vol. 146, pp. 241-254, Oct. 2016. (**CAS Journal Ranking Q2Top, 42 citations on Google Scholar**)
+5.        **Wentao Feng**, "Numerical study of the stimulation related thermo-hydro-mechanical processes in tight gas and deep geothermal reservoirs", Cuvillier Verlag Göttingen, 2020. (**Monograph, a solo work**)
+
+6.        **Wentao Feng**, Patrick Were, Mengting Li, Zhengmeng Hou, Lei Zhou*, "Numerical study on hydraulic fracturing in tight gas formation in consideration of thermal effects and THM coupled processes", Journal of Petroleum Science and Engineering, Vol. 146, pp. 241-254, Oct. 2016. (**CAS Journal Ranking Q2Top, 42 citations on Google Scholar**)
 <br>
 <br> 
 
