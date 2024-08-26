@@ -7,9 +7,10 @@ author_profile: true
 
 2024
 ----
-1. Yi Gao, **Wentao Feng**, Rong Xiao, Lihuo He, Zhenan He, Jiancheng Lv, Chenwei Tang*, "Improving generalized zero-shot learning via cluster-based semantic disentangling representation", Pattern Recognition, Vol. 150, pp. 1-14, Jun. 2024. (**CAS Journal Ranking Q1Top**)   
-2. Chenwei Tang, Jialiang Huang, Mao Xu, Xu Liu, Fan Yang*, **Wentao Feng**, Zhenan He, Jiancheng Lv, "Attention-based early warning framework for abnormal operating conditions in fluid catalytic cracking units", Applied Soft Computing, Vol. 153, pp. 1-14, Mar. 2024. (**CAS Journal Ranking Q1Top**)
-3. Jindi Lv, Yanan Sun, Qing Ye*, **Wentao Feng**, Jiancheng Lv, "A multiscale neural architecture search framework for multimodal fusion", Information Sciences, Vol. 679, pp. 1-16, Jun. 2024.
+1. Shudong Huang, Hecheng Cai, Hao Dai, **Wentao Feng\***, Jiancheng Lv, "Adaptive Instance-wise Multi-view Clustering", in Proceedings of the 32nd ACM Multimedia Conference (MM 2024), pp. 1-9, Oct. 2024. (**CCF-A**)
+2. Yi Gao, **Wentao Feng**, Rong Xiao, Lihuo He, Zhenan He, Jiancheng Lv, Chenwei Tang*, "Improving generalized zero-shot learning via cluster-based semantic disentangling representation", Pattern Recognition, Vol. 150, pp. 1-14, Jun. 2024. (**CAS Journal Ranking Q1Top**)   
+3. Chenwei Tang, Jialiang Huang, Mao Xu, Xu Liu, Fan Yang*, **Wentao Feng**, Zhenan He, Jiancheng Lv, "Attention-based early warning framework for abnormal operating conditions in fluid catalytic cracking units", Applied Soft Computing, Vol. 153, pp. 1-14, Mar. 2024. (**CAS Journal Ranking Q1Top**)
+4. Jindi Lv, Yanan Sun, Qing Ye*, **Wentao Feng**, Jiancheng Lv, "A multiscale neural architecture search framework for multimodal fusion", Information Sciences, Vol. 679, pp. 1-16, Jun. 2024. (**CAS Journal Ranking Q1Top**)
 
 2023
 ----
