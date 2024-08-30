@@ -26,6 +26,7 @@ author_profile: true
 1. Shudong Huang<sup>1</sup>, Wentao Feng<sup>1</sup>, Chenwei Tang, Zhenan He, Caiyang Yu, Jiancheng Lv*, "Partial Differential Equations Meet Deep Neural Networks: A Survey", arXiv:2211.05567, Oct. 2022.
 2. Shudong Huang<sup>1</sup>, Hongjie Wu<sup>1</sup>, Yazhou Ren, Ivor Tsang, Zenglin Xu, **Wentao Feng\***, Jiancheng Lv\*, "Multi-view Subspace Clustering on Topological Manifold", in Proceedings of the Advances in Neural Information Processing Systems 35 (NeurIPS 2022) Main Conference Track, pp. 1-12, Nov. 2022. (**CCF-A**)
 3. Muhammad Haris, Michael Z. Hou, **Wentao Feng\***, Faisal Mehmood, Ammar bin Saleem, "A regenerative Enhanced Geothermal System for heat and electricity production as well as energy storage", Renewable Energy, Vol. 197, pp. 342-358, Sep. 2022. (**CAS Journal Ranking Q1Top**)
+4. Zhengmeng Hou, **Wentao Feng***, "An Integrated Framework to Better Fit Future Energy Systems—Clean Energy Systems Based on Smart Sector Coupling (ENSYSCO)", Advanced Engineering Sciences, Vol. 54(1), pp. 5-15, Jan. 2022. 
 
 2021
 ----
