@@ -11,6 +11,7 @@ author_profile: true
 2. Yi Gao, **Wentao Feng**, Rong Xiao, Lihuo He, Zhenan He, Jiancheng Lv, Chenwei Tang*, "Improving generalized zero-shot learning via cluster-based semantic disentangling representation", Pattern Recognition, Vol. 150, pp. 1-14, Jun. 2024. (**CAS Journal Ranking Q1Top**)   
 3. Chenwei Tang, Jialiang Huang, Mao Xu, Xu Liu, Fan Yang*, **Wentao Feng**, Zhenan He, Jiancheng Lv, "Attention-based early warning framework for abnormal operating conditions in fluid catalytic cracking units", Applied Soft Computing, Vol. 153, pp. 1-14, Mar. 2024. (**CAS Journal Ranking Q1Top**)
 4. Jindi Lv, Yanan Sun, Qing Ye*, **Wentao Feng**, Jiancheng Lv, "A multiscale neural architecture search framework for multimodal fusion", Information Sciences, Vol. 679, pp. 1-16, Jun. 2024. (**CAS Journal Ranking Q1Top**)
+5. Caiyang Yu, Xianggen Liu, Yifan Wang, Yun Liu, **Wentao Feng**, Xiong Deng, Chenwei Tang*, Jiancheng Lv*, "GPT-NAS: Neural architecture search meets generative pre-trained transformer model", Big Data Mining and Analytics, Early Access, pp. 1-20, Sep. 2024. (**CAS Journal Ranking Q1**)
 
 2023
 ----
@@ -19,7 +20,6 @@ author_profile: true
 3. Jizhe Zhou, Xiaochen Ma, Xia Du, Ahmed Y. Alhammadi, **Wentao Feng\***, "Pre-Training-Free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning", in Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), pp. 22346-22356, Oct. 2023. (**CCF-A**)
 4. Muhammad Haris, Michael Zhengmeng Hou, **Wentao Feng**, "An Innovative Concept of Regenerative Enhanced Geothermal Systems: A Field Case Study of The North German Basin", in Proceedings of the World Geothermal Congress (WGC) 2023, pp. 1-10, Sep. 2023.
 5. Yuze Tan, Yixi Liu, Shudong Huang*, **Wentao Feng**, Jiancheng Lv, "Sample-Level Multi-View Graph Clustering", in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 23966-23975, Jun. 2023. (**CCF-A**)
-6. Caiyang Yu, Xianggen Liu, **Wentao Feng**, Chenwei Tang*, Jiancheng Lv, "GPT-NAS: Evolutionary Neural Architecture Search with the Generative Pre-Trained Model", arXiv:2305.05351, May 2023.
 
 2022
 ----
