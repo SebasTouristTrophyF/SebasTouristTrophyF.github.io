@@ -10,10 +10,10 @@ redirect_from:
 Since May 2021, I have held the position of postdoctoral researcher and assistant researcher within the College of Computer Science (College of Software and School of Intelligent Science and Technology) at Sichuan University. My academic journey prior to this appointment involved a significant tenure from April 2015 to June 2020 as a full-time researcher at the Clausthal University of Technology (TU Clausthal) and the Lower Saxony Energy Research Center (EFZN) in Germany. Under the tutelage of Prof. Dr.-Ing. habil. Michael Z. Hou, my research has been deeply rooted in the exploration of computer simulation methodologies, with a particular focus on simulation modeling for the energy industry and the integration of computer simulation techniques within various engineering disciplines. Furthermore, my research interests have expanded to include multi-view learning and the application of deep learning in the simulation modeling of intricate physical systems.
 
 Some academic works: <br>
-a) at present, more than 30 papers have been published in authoritative international and domestic academic journals and international conferences, including 17 papers indexed by SCI; <br>
+a) at present, more than 30 papers have been published in authoritative international and domestic academic journals and international conferences, including 18 papers indexed by SCI; <br>
 b) 2 academic monographs were published in English, and one is a solo work; <br>
 c) 8 national patents have been applied for, and 5 have been authorized; <br> 
-d) Responsible for and participated in a total of 21 government-sponsored research projects as well as consulting projects at all levels in China and Germany; <br> 
+d) Responsible for and participated in a total of 22 government-sponsored research projects as well as consulting projects at all levels in China and Germany; <br> 
 e) A reviewer for 6 authoritative academic journals and 2 international conferences, including IEEE Transactions on Neural Networks and Learning Systems (TNNLS, ISSN: 2162-2388) and Renewable Energy (ISSN: 0960-1481).
 
 
