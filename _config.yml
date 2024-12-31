@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "<center>Wentao Feng<br>A. P. Dr.-Ing.</center>"
+  name             : "<p align="left">Wentao Feng<br>Assoc. Prof. Dr.-Ing.</p>"
   avatar           : "Wentao Feng.png"
-  bio              : "An lEEE/CCF/SPE Member, received his Ph.D. from the Clausthal University of Technology (TU Clausthal) in Germany in Dec. 2019. He is currently a postdoctoral and assistant research fellow with the College of Computer Science, Sichuan University."
+  bio              : "An lEEE/CCF/SPE Member, received his Ph.D. from the Clausthal University of Technology (TU Clausthal) in Germany in Dec. 2019. He is currently a postdoctoral and associate research fellow with the College of Computer Science, Sichuan University."
   location         : "Chengdu, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
