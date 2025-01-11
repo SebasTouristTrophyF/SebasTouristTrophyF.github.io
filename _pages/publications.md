@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+2025
+----
+1. Xuekang Zhu<sup>1</sup>, Xiaochen Ma<sup>1</sup>, Lei Su, Zhuohang Jiang, Bo Du, Xiwen Wang, Zeyu Lei, **Wentao Feng**, Chi-Man Pun, Jizhe Zhou*, "Mesoscopic Insights: Orchestrating Multi-scale & Hybrid Architecture for Image Manipulation Localization", in Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25), Feb. 2025. (**CCF-A**)
+
 2024
 ----
 1. Shudong Huang, Hecheng Cai, Hao Dai, **Wentao Feng\***, Jiancheng Lv, "Adaptive Instance-wise Multi-view Clustering", in Proceedings of the 32nd ACM Multimedia Conference (MM 2024), pp. 1-9, Oct. 2024. (**CCF-A**)
