@@ -8,6 +8,7 @@ author_profile: true
 2025
 ----
 1. Xuekang Zhu<sup>1</sup>, Xiaochen Ma<sup>1</sup>, Lei Su, Zhuohang Jiang, Bo Du, Xiwen Wang, Zeyu Lei, **Wentao Feng**, Chi-Man Pun, Jizhe Zhou*, "Mesoscopic Insights: Orchestrating Multi-scale & Hybrid Architecture for Image Manipulation Localization", in Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25), Feb. 2025. (**CCF-A**)
+2. Caiyang Yu, Xianggen Liu, Yifan Wang, Yun Liu, **Wentao Feng**, Xiong Deng, Chenwei Tang\*, Jiancheng Lv\*, "GPT-NAS: Neural architecture search meets generative pre-trained transformer model", Big Data Mining and Analytics, Early Access, pp. 1-20, Sep. 2024. (**CAS Journal Ranking Q1**)
 
 2024
 ----
@@ -15,7 +16,6 @@ author_profile: true
 2. Yi Gao, **Wentao Feng**, Rong Xiao, Lihuo He, Zhenan He, Jiancheng Lv, Chenwei Tang*, "Improving generalized zero-shot learning via cluster-based semantic disentangling representation", Pattern Recognition, Vol. 150, pp. 1-14, Jun. 2024. (**CAS Journal Ranking Q1Top**)   
 3. Chenwei Tang, Jialiang Huang, Mao Xu, Xu Liu, Fan Yang*, **Wentao Feng**, Zhenan He, Jiancheng Lv, "Attention-based early warning framework for abnormal operating conditions in fluid catalytic cracking units", Applied Soft Computing, Vol. 153, pp. 1-14, Mar. 2024. (**CAS Journal Ranking Q1Top**)
 4. Jindi Lv, Yanan Sun, Qing Ye*, **Wentao Feng**, Jiancheng Lv, "A multiscale neural architecture search framework for multimodal fusion", Information Sciences, Vol. 679, pp. 1-16, Jun. 2024. (**CAS Journal Ranking Q1Top**)
-5. Caiyang Yu, Xianggen Liu, Yifan Wang, Yun Liu, **Wentao Feng**, Xiong Deng, Chenwei Tang\*, Jiancheng Lv\*, "GPT-NAS: Neural architecture search meets generative pre-trained transformer model", Big Data Mining and Analytics, Early Access, pp. 1-20, Sep. 2024. (**CAS Journal Ranking Q1**)
 
 2023
 ----
