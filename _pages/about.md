@@ -23,17 +23,19 @@ Prof. Dr.-Ing. Wentao Feng has made significant contributions to modeling deep e
 
 Highlight publications
 ======
-1.        Shudong Huang<sup>1</sup>, Hongjie Wu<sup>1</sup>, Yazhou Ren, Ivor Tsang, Zenglin Xu, **Wentao Feng\***, Jiancheng Lv\*, “Multi-view Subspace Clustering on Topological Manifold”, in Proceedings of the Advances in Neural Information Processing Systems 35 (NeurIPS 2022), pp. 1-12, Nov. 2022. (**CCF-A**)
+1.        Shudong Huang<sup>1</sup>, Wentao Feng<sup>1</sup>, Chenwei Tang, Zhenan He, Caiyang Yu, Jiancheng Lv*, "Partial Differential Equations Meet Deep Neural Networks: A Survey", accepted by IEEE Transactions on Neural Networks and Learning Systems, Feb. 2025. (**CAS Journal Ranking Q1Top** and **CCF-B**)
 
-2.        Muhammad Haris, Michael Z. Hou, **Wentao Feng\***, Faisal Mehmood, Ammar bin Saleem, “A regenerative Enhanced Geothermal System for heat and electricity production as well as energy storage”, Renewable Energy, Vol. 197, pp. 342-358, Sep. 2022. (**CAS Journal Ranking Q1Top**)
+2.        Shudong Huang, Hecheng Cai, Hao Dai, **Wentao Feng\***, Jiancheng Lv, "Adaptive Instance-wise Multi-view Clustering", in Proceedings of the 32nd ACM Multimedia Conference (MM 2024), pp. 1-9, Oct. 2024. (**CCF-A**)
 
 3.        Jizhe Zhou, Xiaochen Ma, Xia Du, Ahmad Khayyat, **Wentao Feng\***, "Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning", in Proceedings of the International Conference on Computer Vision (ICCV) 2023, PP. 1-10, Jul. 2023. (**CCF-A**)
 
-4.        Shudong Huang, Hecheng Cai, Hao Dai, **Wentao Feng\***, Jiancheng Lv, "Adaptive Instance-wise Multi-view Clustering", in Proceedings of the 32nd ACM Multimedia Conference (MM 2024), pp. 1-9, Oct. 2024. (**CCF-A**)
+4.        Muhammad Haris, Michael Z. Hou, **Wentao Feng\***, Faisal Mehmood, Ammar bin Saleem, “A regenerative Enhanced Geothermal System for heat and electricity production as well as energy storage”, Renewable Energy, Vol. 197, pp. 342-358, Sep. 2022. (**CAS Journal Ranking Q1Top**)
 
-5.        **Wentao Feng**, "Numerical study of the stimulation related thermo-hydro-mechanical processes in tight gas and deep geothermal reservoirs", Cuvillier Verlag Göttingen, 2020. (**Monograph, a solo work**)
+5.        Shudong Huang<sup>1</sup>, Hongjie Wu<sup>1</sup>, Yazhou Ren, Ivor Tsang, Zenglin Xu, **Wentao Feng\***, Jiancheng Lv\*, “Multi-view Subspace Clustering on Topological Manifold”, in Proceedings of the Advances in Neural Information Processing Systems 35 (NeurIPS 2022), pp. 1-12, Nov. 2022. (**CCF-A**)
 
-6.        **Wentao Feng**, Patrick Were, Mengting Li, Zhengmeng Hou, Lei Zhou*, "Numerical study on hydraulic fracturing in tight gas formation in consideration of thermal effects and THM coupled processes", Journal of Petroleum Science and Engineering, Vol. 146, pp. 241-254, Oct. 2016. (**CAS Journal Ranking Q2Top, 42 citations on Google Scholar**)
+6.        **Wentao Feng**, "Numerical study of the stimulation related thermo-hydro-mechanical processes in tight gas and deep geothermal reservoirs", Cuvillier Verlag Göttingen, 2020. (**Monograph, a solo work**)
+
+7.        **Wentao Feng**, Patrick Were, Mengting Li, Zhengmeng Hou, Lei Zhou*, "Numerical study on hydraulic fracturing in tight gas formation in consideration of thermal effects and THM coupled processes", Journal of Petroleum Science and Engineering, Vol. 146, pp. 241-254, Oct. 2016. (**CAS Journal Ranking Q2Top, 42 citations on Google Scholar**)
 <br>
 <br> 
 
