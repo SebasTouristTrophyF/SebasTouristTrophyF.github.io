@@ -23,7 +23,7 @@ Prof. Dr.-Ing. Wentao Feng has made significant contributions to modeling deep e
 
 Highlight publications
 ======
-1.        Shudong Huang<sup>1</sup>, Wentao Feng<sup>1</sup>, Chenwei Tang, Zhenan He, Caiyang Yu, Jiancheng Lv*, "Partial Differential Equations Meet Deep Neural Networks: A Survey", accepted by IEEE Transactions on Neural Networks and Learning Systems, Feb. 2025. (**CAS Journal Ranking Q1Top** and **CCF-B**)
+1.        Shudong Huang<sup>1</sup>, Wentao Feng<sup>1</sup>, Chenwei Tang, Zhenan He, Caiyang Yu, Jiancheng Lv*, "Partial Differential Equations Meet Deep Neural Networks: A Survey", accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Feb. 2025. (**CAS Journal Ranking Q1Top** and **CCF-B**)
 
 2.        Shudong Huang, Hecheng Cai, Hao Dai, **Wentao Feng\***, Jiancheng Lv, "Adaptive Instance-wise Multi-view Clustering", in Proceedings of the 32nd ACM Multimedia Conference (MM 2024), pp. 1-9, Oct. 2024. (**CCF-A**)
 
