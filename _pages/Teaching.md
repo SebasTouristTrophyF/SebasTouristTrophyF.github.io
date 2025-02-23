@@ -13,7 +13,8 @@ Principles of Operating System:
 =======
 College of Computer Science, Sichuan University, 2021-2022 Spring.<br>
 College of Computer Science, Sichuan University, 2022-2023 Spring.<br>
-College of Computer Science, Sichuan University, 2023-2024 Spring.
+College of Computer Science, Sichuan University, 2023-2024 Spring.<br>
+College of Computer Science, Sichuan University, 2024-2025 Spring.
 
 Engineering Ethics:
 =======
