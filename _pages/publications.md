@@ -7,7 +7,7 @@ author_profile: true
 
 2025
 ----
-1. Shudong Huang<sup>1</sup>, Wentao Feng<sup>1</sup>, Chenwei Tang, Zhenan He, Caiyang Yu, Jiancheng Lv*, "Partial Differential Equations Meet Deep Neural Networks: A Survey", accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Feb. 2025. (**CAS Journal Ranking Q1Top** and **CCF-B**)
+1. Shudong Huang<sup>1</sup>, Wentao Feng<sup>1</sup>, Chenwei Tang, Zhenan He, Caiyang Yu, Jiancheng Lv*, "Partial Differential Equations Meet Deep Neural Networks: A Survey", IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Feb. 2025: early access (**CAS Journal Ranking Q1Top** and **CCF-B**)
 2. Xuekang Zhu<sup>1</sup>, Xiaochen Ma<sup>1</sup>, Lei Su, Zhuohang Jiang, Bo Du, Xiwen Wang, Zeyu Lei, **Wentao Feng**, Chi-Man Pun, Jizhe Zhou*, "Mesoscopic Insights: Orchestrating Multi-scale & Hybrid Architecture for Image Manipulation Localization", in Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25), Feb. 2025. (**CCF-A**)
 3. Caiyang Yu, Xianggen Liu, Yifan Wang, Yun Liu, **Wentao Feng**, Xiong Deng, Chenwei Tang\*, Jiancheng Lv\*, "GPT-NAS: Neural architecture search meets generative pre-trained transformer model", Big Data Mining and Analytics, Early Access, pp. 1-20, Feb. 2025. (**CAS Journal Ranking Q1**)
 
