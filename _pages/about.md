@@ -12,14 +12,14 @@ Prof. Dr.-Ing. Wentao Feng has significantly contributed to intelligent simulati
 Curriculum Vitae
 ======
 Work experience: <br>
-2024.09 to now 
-2021.05 - 2024.08 
-2015.04 - 2020.03
+2024.09 to now  <br>
+2021.05 - 2024.08  <br>
+2015.04 - 2020.03  <br>
 
 Education: <br>
-2015.04 - 2019.12 Promotion at TU Clausthal, Doktorvater: Prof. Dr.-Ing. habil. Michael Z. Hou
-2012.10 - 2015.03 Studying for a Master's degree at Sichuan University
-2010.10 - 2013.03 Studying for a Bachelor's degree at TU Clausthal
+2015.04 - 2019.12 Promotion at TU Clausthal, Doktorvater: Prof. Dr.-Ing. habil. Michael Z. Hou <br>
+2012.10 - 2015.03 Studying for a Master's degree at Sichuan University <br>
+2010.10 - 2013.03 Studying for a Bachelor's degree at TU Clausthal <br>
 2008.09 - 2012.06 Studying for a Bachelor's degree at Sichuan University
 
 Some academic works: <br>
