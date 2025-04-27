@@ -12,16 +12,16 @@ Prof. Dr.-Ing. Wentao Feng has significantly contributed to intelligent simulati
 Curriculum Vitae
 ======
 Work experience:  <br>
-2024.09 to now &emsp; &emsp; Associate Professor at Sichuan University <br>
-2021.05 - 2024.08 Postdoctoral Researcher at Sichuan University <br>
-2021.08 - 2022.01 Temporarily Transfer to the China Academic Degrees and Graduate Education Development Center (CDGDC of MOE, China)
-2015.04 - 2020.03 A full-time researcher at TU Clausthal and the Lower Saxony Energy Research Center (EFZN), Germany <br>
+2024.09 to now &emsp; Associate Professor at Sichuan University <br>
+2021.05 - 2024.08 &emsp; Postdoctoral Researcher at Sichuan University <br>
+2021.08 - 2022.01 &emsp; Temporarily Transfer to the China Academic Degrees and Graduate Education Development Center (CDGDC of MOE, China)
+2015.04 - 2020.03 &emsp; A full-time researcher at TU Clausthal and the Lower Saxony Energy Research Center (EFZN), Germany <br>
 
 Education: <br>
-2015.04 - 2019.12 Promotion at TU Clausthal, Doktorvater: Prof. Dr.-Ing. habil. Michael Z. Hou <br>
-2012.10 - 2015.03 Studying for a Master's degree at Sichuan University <br>
-2010.10 - 2013.03 Studying for a Bachelor's degree at TU Clausthal <br>
-2008.09 - 2012.06 Studying for a Bachelor's degree at Sichuan University
+2015.04 - 2019.12 &emsp; Promotion at TU Clausthal, Doktorvater: Prof. Dr.-Ing. habil. Michael Z. Hou <br>
+2012.10 - 2015.03 &emsp; Studying for a Master's degree at Sichuan University <br>
+2010.10 - 2013.03 &emsp; Studying for a Bachelor's degree at TU Clausthal <br>
+2008.09 - 2012.06 &emsp; Studying for a Bachelor's degree at Sichuan University
 
 Some academic works: <br>
 a) At present, more than 30 papers have been published in authoritative international and domestic academic journals and international conferences, including 18 papers indexed by SCI; <br>
