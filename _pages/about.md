@@ -14,7 +14,7 @@ Curriculum Vitae
 Work experience:  <br>
 2024.09 to now &emsp; Associate Professor at Sichuan University <br>
 2021.05 - 2024.08 &emsp; Postdoctoral Researcher at Sichuan University <br>
-2021.08 - 2022.01 &emsp; Temporarily Transfer to the China Academic Degrees and Graduate Education Development Center (CDGDC of MOE, China)
+2021.08 - 2022.01 &emsp; Temporarily Transfer to the China Academic Degrees and Graduate Education Development Center (CDGDC) <br>
 2015.04 - 2020.03 &emsp; A full-time researcher at TU Clausthal and the Lower Saxony Energy Research Center (EFZN), Germany <br>
 
 Education: <br>
