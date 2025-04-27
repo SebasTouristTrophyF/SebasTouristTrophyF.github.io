@@ -7,7 +7,20 @@ redirect_from:
 ---
 **Schönen guten Tag!&nbsp;&nbsp;&nbsp;祝您度过美好的一天！&nbsp;Have a good day!**
 
-Since May 2021, I have held the position of postdoctoral researcher and assistant researcher within the College of Computer Science (College of Software and School of Intelligent Science and Technology) at Sichuan University. My academic journey prior to this appointment involved a significant tenure from April 2015 to June 2020 as a full-time researcher at the Clausthal University of Technology (TU Clausthal) and the Lower Saxony Energy Research Center (EFZN) in Germany. Under the tutelage of Prof. Dr.-Ing. habil. Michael Z. Hou, my research has been deeply rooted in the exploration of computer simulation methodologies, with a particular focus on simulation modeling for the energy industry and the integration of computer simulation techniques within various engineering disciplines. Furthermore, my research interests have expanded to include multi-view learning and the application of deep learning in the simulation modeling of intricate physical systems.
+Prof. Dr.-Ing. Wentao Feng has significantly contributed to intelligent simulation, multi-view learning, the modeling of deep energy development based on hydraulic fracturing, engineering applications of multi-stage fracturing in geothermal resource development, and strategic planning for reducing and enhancing seismic risks in geothermal systems. His research results have been applied to the large-scale geothermal research project MAGS2 funded by the Federal Ministry of Economic Affairs and Energy (BMWi) in Germany and the DGMK-680 series project financed by the DGMK German Society for Sustainable Energy Carriers, Mobility and Carbon Cycles e.V. The industrial intelligence methods and technologies for nuclear industry scenarios that were involved in the research have also been applied to engineering projects under China National Nuclear Corporation (CNNC).
+
+Curriculum Vitae
+======
+Work experience: <br>
+2024.09 to now 
+2021.05 - 2024.08 
+2015.04 - 2020.03
+
+Education: <br>
+2015.04 - 2019.12 Promotion at TU Clausthal, Doktorvater: Prof. Dr.-Ing. habil. Michael Z. Hou
+2012.10 - 2015.03 Studying for a Master's degree at Sichuan University
+2010.10 - 2013.03 Studying for a Bachelor's degree at TU Clausthal
+2008.09 - 2012.06 Studying for a Bachelor's degree at Sichuan University
 
 Some academic works: <br>
 a) at present, more than 30 papers have been published in authoritative international and domestic academic journals and international conferences, including 18 papers indexed by SCI; <br>
@@ -15,11 +28,6 @@ b) 2 academic monographs were published in English, and one is a solo work; <br>
 c) 8 national patents have been applied for, and 5 have been authorized; <br> 
 d) Responsible for and participated in a total of 25 government-sponsored research projects as well as consulting projects at all levels in China and Germany; <br> 
 e) A reviewer for 8 authoritative academic journals and 3 international conferences, including IEEE Transactions on Neural Networks and Learning Systems (TNNLS, ISSN: 2162-2388), Renewable Energy (ISSN: 0960-1481), IEEE Transactions on Multimedia (TMM, ISSN: 1520-9210), IEEE Transactions on Image Processing (TIP, ISSN: 1057-7149), and the IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR).
-
-
-Honors for project achievements
-======
-Prof. Dr.-Ing. Wentao Feng has made significant contributions to modeling deep energy development based on hydraulic fracturing, engineering applications of multi-stage fracturing in geothermal resource development, and strategic planning for reducing and enhancing seismic risks in geothermal systems. His research results have been applied to the large-scale geothermal research project MAGS2 funded by the Federal Ministry of Economic Affairs and Energy (BMWi) in Germany and the DGMK-680 series project funded by the DGMK German Society for Sustainable Energy Carriers, Mobility and Carbon Cycles e.V. The industrial intelligence methods and technologies for nuclear industry scenarios that were involved in the research have also been applied to engineering projects under China National Nuclear Corporation (CNNC).
 
 Highlight publications
 ======
