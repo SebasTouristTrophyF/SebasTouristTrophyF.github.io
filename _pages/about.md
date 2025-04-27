@@ -12,7 +12,7 @@ Prof. Dr.-Ing. Wentao Feng has significantly contributed to intelligent simulati
 Curriculum Vitae
 ======
 Work experience:  <br>
-2024.09 to now &emsp &emsp Associate Professor at Sichuan University <br>
+2024.09 to now &emsp; &emsp; Associate Professor at Sichuan University <br>
 2021.05 - 2024.08 Postdoctoral Researcher at Sichuan University <br>
 2021.08 - 2022.01 Temporarily Transfer to the China Academic Degrees and Graduate Education Development Center (CDGDC of MOE, China)
 2015.04 - 2020.03 A full-time researcher at TU Clausthal and the Lower Saxony Energy Research Center (EFZN), Germany <br>
