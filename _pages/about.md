@@ -32,7 +32,7 @@ e) A reviewer for 8 authoritative academic journals and 3 international conferen
 
 Highlight publications
 ======
-1.        Shudong Huang, Rui Huang, Ming Hu, **Wentao Feng\***, Jiancheng Lv\*, "DONIS: Importance Sampling for Training Physics-Informed DeepONet", The 34th International Joint Conference on Artificial Intelligence (IJCAI-25), accepted. (**CCF-A**)
+1.        Shudong Huang, Rui Huang, Ming Hu, **Wentao Feng\***, Jiancheng Lv, "DONIS: Importance Sampling for Training Physics-Informed DeepONet", The 34th International Joint Conference on Artificial Intelligence (IJCAI-25), accepted. (**CCF-A**)
   
 2.        Shudong Huang<sup>1</sup>, Wentao Feng<sup>1</sup>, Chenwei Tang, Zhenan He, Caiyang Yu, Jiancheng Lv*, "Partial Differential Equations Meet Deep Neural Networks: A Survey", IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Feb. 2025: early access. [Original Link](https://ieeexplore.ieee.org/document/10926849) (**CAS Journal Ranking Q1Top** and **CCF-B**)
 
