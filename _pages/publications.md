@@ -7,6 +7,7 @@ author_profile: true
 
 2025
 ----
+1. **Wentao Feng**, Ming Hu, Rui Huang, Chenwei Tang, Shudong Huang\*, Jiancheng Lv, "DSAIS-PINN: Dynamic Seeds Allocation Importance Sampling for Physics-Informed Neural Networks", Neurocomputing, accepted. (**CAS Journal Ranking Q2**)
 1. Shudong Huang, Rui Huang, Ming Hu, **Wentao Feng\***, Jiancheng Lv, "DONIS: Importance Sampling for Training Physics-Informed DeepONet", The 34th International Joint Conference on Artificial Intelligence (IJCAI-25), accepted. (**CCF-A**)
 2. Shudong Huang<sup>1</sup>, Wentao Feng<sup>1</sup>, Chenwei Tang, Zhenan He, Caiyang Yu, Jiancheng Lv*, "Partial Differential Equations Meet Deep Neural Networks: A Survey", IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Feb. 2025: early access. (**CAS Journal Ranking Q1Top** and **CCF-B**)
 3. Xuekang Zhu<sup>1</sup>, Xiaochen Ma<sup>1</sup>, Lei Su, Zhuohang Jiang, Bo Du, Xiwen Wang, Zeyu Lei, **Wentao Feng**, Chi-Man Pun, Jizhe Zhou*, "Mesoscopic Insights: Orchestrating Multi-scale & Hybrid Architecture for Image Manipulation Localization", in Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25), Feb. 2025. (**CCF-A**)
