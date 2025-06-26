@@ -28,7 +28,7 @@ a) At present, more than 30 papers have been published in authoritative internat
 b) 2 academic monographs were published in English, and one is a solo work; <br>
 c) 8 national patents have been applied for, and 5 have been authorized; <br> 
 d) Responsible for and participated in a total of 25 government-sponsored research projects as well as consulting projects at all levels in China and Germany; <br> 
-e) A reviewer for 8 authoritative academic journals and 3 international conferences, including IEEE Transactions on Neural Networks and Learning Systems (TNNLS, ISSN: 2162-2388), Renewable Energy (ISSN: 0960-1481), IEEE Transactions on Multimedia (TMM, ISSN: 1520-9210), IEEE Transactions on Image Processing (TIP, ISSN: 1057-7149), and the IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR).
+e) A reviewer for 8 authoritative academic journals and 3 international conferences, including IEEE Transactions on Neural Networks and Learning Systems (TNNLS, ISSN: 2162-2388), Renewable Energy (ISSN: 0960-1481), IEEE Transactions on Multimedia (TMM, ISSN: 1520-9210), IEEE Transactions on Image Processing (TIP, ISSN: 1057-7149), IEEE Transactions on Cybernetics (TCYB, ISSN: 2168-2267), and the IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR).
 
 Highlight publications
 ======
