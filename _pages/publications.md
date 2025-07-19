@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications & Patents"
-permalink: /publications&patents/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 ---
 
@@ -14,9 +14,6 @@ author_profile: true
 5. Caiyang Yu, Xianggen Liu, Yifan Wang, Yun Liu, **Wentao Feng**, Xiong Deng, Chenwei Tang\*, Jiancheng Lv\*, "GPT-NAS: Neural architecture search meets generative pre-trained transformer model", Big Data Mining and Analytics, Vol. 8(1), pp. 45-64, Feb. 2025. (**CAS Journal Ranking Q1**)
 6. Qian Qu, Quan-Hui Liu, Jian Gao, Shudong Huang, **Wentao Feng**, Zhongtao Yue, Xin Lu, Tao Zhou, Jiancheng Lv, "Gender differences in resume language and gender gaps in salary expectations", Journal of the Royal Society Interface, Vol. 22(227), pp.1-10, Jun. 2025. (**CAS Journal Ranking Q2**)
 7. Yang Liu, **Wentao Feng**, Zhuoyao Liu, Shudong Huang, Jiancheng Lv, "Aligning Information Capacity Between Vision and Language via Dense-to-Sparse Feature Distillation for Image-Text Matching", arXiv:2503.14953, Mar. 2025.
-8. "一种面向地热开发场景的域分解式多尺度智能仿真方法" (国家发明专利，专利号:ZL202411893208.0)，胡明/**冯文韬**/黄睿/贺喆南/周吉喆/吕建成，四川大学，2025.
-9. "一种水力压裂地震可能性预测方法" (国家发明专利，专利号:ZL202411893223.5)，黄树东/黄睿/唐一帆/胡明/**冯文韬**/刘建锋/吕建成，四川大学，2025.
-10. "一种基于粒球的多视图对比聚类方法" (国家发明专利，专利号:ZL202411687496.4)，黄树东/苏鹏/蔡和城/刘洋/**冯文韬**/刘权辉/曹智文，四川大学，2025.
 
 2024
 ----
