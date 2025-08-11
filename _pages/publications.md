@@ -13,7 +13,7 @@ author_profile: true
 4. Xuekang Zhu<sup>1</sup>, Xiaochen Ma<sup>1</sup>, Lei Su, Zhuohang Jiang, Bo Du, Xiwen Wang, Zeyu Lei, **Wentao Feng**, Chi-Man Pun, Jizhe Zhou*, "Mesoscopic Insights: Orchestrating Multi-scale & Hybrid Architecture for Image Manipulation Localization", in Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25), Feb. 2025. (**CCF-A**)
 5. Caiyang Yu, Xianggen Liu, Yifan Wang, Yun Liu, **Wentao Feng**, Xiong Deng, Chenwei Tang\*, Jiancheng Lv\*, "GPT-NAS: Neural architecture search meets generative pre-trained transformer model", Big Data Mining and Analytics, Vol. 8(1), pp. 45-64, Feb. 2025. (**CAS Journal Ranking Q1**)
 6. Qian Qu, Quan-Hui Liu, Jian Gao, Shudong Huang, **Wentao Feng**, Zhongtao Yue, Xin Lu, Tao Zhou, Jiancheng Lv, "Gender differences in resume language and gender gaps in salary expectations", Journal of the Royal Society Interface, Vol. 22(227), pp.1-10, Jun. 2025. (**CAS Journal Ranking Q2**)
-7. Yang Liu, **Wentao Feng**, Zhuoyao Liu, Shudong Huang, Jiancheng Lv, "Aligning Information Capacity Between Vision and Language via Dense-to-Sparse Feature Distillation for Image-Text Matching", arXiv:2503.14953, Mar. 2025.
+7. Yang Liu, **Wentao Feng**, Zhuoyao Liu, Shudong Huang, Jiancheng Lv, "Aligning Information Capacity Between Vision and Language via Dense-to-Sparse Feature Distillation for Image-Text Matching", the IEEE/CVF International Conference on Computer Vision (ICCV 2025), accepted.
 
 2024
 ----
