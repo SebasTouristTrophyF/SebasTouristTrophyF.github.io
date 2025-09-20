@@ -24,7 +24,7 @@ Education: <br>
 2008.09 - 2012.06 &emsp; Studying for a Bachelor's degree at Sichuan University
 
 Some academic works: <br>
-a) At present, more than 30 papers have been published in authoritative international and domestic academic journals and international conferences, including 18 papers indexed by SCI; <br>
+a) At present, nearly 40 papers have been published in authoritative international and domestic academic journals and international conferences, including 21 papers indexed by SCI; <br>
 b) 2 academic monographs were published in English, and one is a solo work; <br>
 c) More than 10 national patents have been applied for, and 9 have been authorized; <br> 
 d) Responsible for and participated in a total of 25 government-sponsored research projects as well as consulting projects at all levels in China and Germany; <br> 
@@ -32,7 +32,7 @@ e) A reviewer for many authoritative academic journals and international confere
 
 Highlight publications
 ======
-1.        Shudong Huang, Rui Huang, Ming Hu, **Wentao Feng\***, Jiancheng Lv, "DONIS: Importance Sampling for Training Physics-Informed DeepONet", The 34th International Joint Conference on Artificial Intelligence (IJCAI-25), accepted. (**CCF-A**)
+1.        Shudong Huang, Rui Huang, Ming Hu, **Wentao Feng\***, Jiancheng Lv, "DONIS: Importance Sampling for Training Physics-Informed DeepONet", The 34th International Joint Conference on Artificial Intelligence (IJCAI-25), PP. 5417-5425, Aug. 2025. [Original Link](https://www.ijcai.org/proceedings/2025/603) (**CCF-A**)
   
 2.        Shudong Huang<sup>1</sup>, **Wentao Feng<sup>1</sup>**, Chenwei Tang, Zhenan He, Caiyang Yu, Jiancheng Lv*, "Partial Differential Equations Meet Deep Neural Networks: A Survey", IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Vol. 36(8), pp. 13649-13669, Mar. 2025. [Original Link](https://ieeexplore.ieee.org/document/10926849) (**CAS Journal Ranking Q1Top** and **CCF-B**)
 
