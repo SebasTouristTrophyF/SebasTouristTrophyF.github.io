@@ -24,7 +24,7 @@ Education: <br>
 2008.09 - 2012.06 &emsp; Studying for a Bachelor's degree at Sichuan University
 
 Some academic works: <br>
-a) At present, nearly 40 papers have been published in authoritative international and domestic academic journals and international conferences, including 21 papers indexed by SCI; <br>
+a) At present, more than 40 papers have been published in authoritative international and domestic academic journals and international conferences, including 21 papers indexed by SCI; <br>
 b) 2 academic monographs were published in English, and one is a solo work; <br>
 c) More than 10 national patents have been applied for, and 10 have been authorized; <br> 
 d) Responsible for and participated in a total of 25 government-sponsored research projects as well as consulting projects at all levels in China and Germany; <br> 
