@@ -7,7 +7,8 @@ author_profile: true
 Discrete Mathematics:
 =======
 College of Computer Science, Sichuan University, 2022-2023 Autumn.<br>
-College of Computer Science, Sichuan University, 2023-2024 Autumn.
+College of Computer Science, Sichuan University, 2023-2024 Autumn.<br>
+College of Computer Science, Sichuan University, 2025-2026 Autumn.
 
 Principles of Operating System:
 =======
@@ -18,4 +19,11 @@ College of Computer Science, Sichuan University, 2024-2025 Spring.
 
 Engineering Ethics:
 =======
-College of Computer Science, Sichuan University, 2023-2024 Autumn.
+College of Computer Science, Sichuan University, 2023-2024 Autumn.<br>
+College of Computer Science, Sichuan University, 2025-2026 Autumn.
+
+Cutting-Edge Technologies and Professional Practice:
+=======
+College of Computer Science, Sichuan University, 2023-2024 Spring.<br>
+College of Computer Science, Sichuan University, 2024-2025 Spring.<br>
+College of Computer Science, Sichuan University, 2025-2026 Spring.
