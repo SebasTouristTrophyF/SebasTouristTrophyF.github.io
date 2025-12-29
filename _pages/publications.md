@@ -8,7 +8,7 @@ author_profile: true
 2024
 ----
 1. Zhuoyao Liu, Yang Liu, **Wentao Feng**, Shudong Huang*, "PCSR: Pseudo-label Consistency-Guided Sample Refinement for Noisy Correspondence Learning", in Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26), Jan. 2026. (**CCF-A**)
-2. Yifan Tang, Jianfeng Liu*, Jinbing Wei, Honghao Yuan, Danli Li, **Wentao Feng**, "Structure-constrained semi-supervised segmentation of complex geomaterial CT images", International Journal of Rock Mechanics and Mining Sciences, Jan. 2026. (**CAS Journal Ranking Q1**)
+2. Yifan Tang, Jianfeng Liu*, Jinbing Wei, Honghao Yuan, Danli Li, **Wentao Feng**, "Structure-constrained semi-supervised segmentation of complex geomaterial CT images", International Journal of Rock Mechanics and Mining Sciences, Jan. 2026. (**CAS Journal Ranking Q1Top**)
 
 2025
 ----
