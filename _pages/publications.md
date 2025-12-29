@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+2024
+----
+1. Zhuoyao Liu, Yang Liu, **Wentao Feng**, Shudong Huang*, "PCSR: Pseudo-label Consistency-Guided Sample Refinement for Noisy Correspondence Learning", in Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26), Jan. 2026. (**CCF-A**)
+2. Yifan Tang, Jianfeng Liu*, Jinbing Wei, Honghao Yuan, Danli Li, **Wentao Feng**, "Structure-constrained semi-supervised segmentation of complex geomaterial CT images", International Journal of Rock Mechanics and Mining Sciences, Jan. 2026. (**CAS Journal Ranking Q1**)
+
 2025
 ----
 1. **Wentao Feng**, Ming Hu, Rui Huang, Chenwei Tang, Shudong Huang\*, Jiancheng Lv, "DSAIS-PINN: Dynamic Seeds Allocation Importance Sampling for Physics-Informed Neural Networks", Neurocomputing, Vol. 648, pp. 1-14, Jun. 2025. (**CAS Journal Ranking Q2**)
