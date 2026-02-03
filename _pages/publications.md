@@ -9,6 +9,7 @@ author_profile: true
 ----
 1. Zhuoyao Liu, Yang Liu, **Wentao Feng**, Shudong Huang*, "PCSR: Pseudo-label Consistency-Guided Sample Refinement for Noisy Correspondence Learning", in Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26), Jan. 2026. (**CCF-A**)
 2. Yifan Tang, Jianfeng Liu*, Jinbing Wei, Honghao Yuan, Danli Li, **Wentao Feng**, "Structure-constrained semi-supervised segmentation of complex geomaterial CT images", International Journal of Rock Mechanics and Mining Sciences, Jan. 2026. (**CAS Journal Ranking Q1Top**)
+3. Yongcheng Liu, Rui Huang, Jingwen Yu, Ming Hu*, **Wentao Feng\***, Jizhe Zhou, Qing Ye, Shudong Huang, Jiancheng Lv, "Neural operator methods integrating mathematical and physical knowledge", Journal of Sichuan University (Natural Science Edition), Vol. 63(1), pp. 100-110, Dec. 2025.
 
 2025
 ----
@@ -20,7 +21,6 @@ author_profile: true
 6. Caiyang Yu, Xianggen Liu, Yifan Wang, Yun Liu, **Wentao Feng**, Xiong Deng, Chenwei Tang\*, Jiancheng Lv\*, "GPT-NAS: Neural architecture search meets generative pre-trained transformer model", Big Data Mining and Analytics, Vol. 8(1), pp. 45-64, Feb. 2025. (**CAS Journal Ranking Q1**)
 7. Qian Qu, Quan-Hui Liu, Jian Gao, Shudong Huang, **Wentao Feng**, Zhongtao Yue, Xin Lu, Tao Zhou, Jiancheng Lv, "Gender differences in resume language and gender gaps in salary expectations", Journal of the Royal Society Interface, Vol. 22(227), pp.1-10, Jun. 2025. (**CAS Journal Ranking Q2**)
 8. Yang Liu, **Wentao Feng**, Zhuoyao Liu, Shudong Huang, Jiancheng Lv, "Aligning Information Capacity Between Vision and Language via Dense-to-Sparse Feature Distillation for Image-Text Matching", the IEEE/CVF International Conference on Computer Vision (ICCV 2025), accepted. (**CCF-A**)
-9. Yongcheng Liu, Rui Huang, Jingwen Yu, Ming Hu*, **Wentao Feng\***, Jizhe Zhou, Qing Ye, Shudong Huang, Jiancheng Lv, "Neural operator methods integrating mathematical and physical knowledge", Journal of Sichuan University (Natural Science Edition), Dec. 2025.
 
 2024
 ----
