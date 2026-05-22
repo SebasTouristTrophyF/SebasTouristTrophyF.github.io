@@ -48,7 +48,7 @@ Highlight publications
 
 8.        **Wentao Feng**, "Numerical study of the stimulation related thermo-hydro-mechanical processes in tight gas and deep geothermal reservoirs", Cuvillier Verlag Göttingen, 2020. [Original Link](https://cuvillier.de/en/shop/publications/8191-numerical-study-of-the-stimulation-related-thermo-hydro-mechanical-processes-in-tight-gas-and-deep-geothermal-reservoirs) (**Monograph, a solo work**)
 
-9.        **Wentao Feng**, Patrick Were, Mengting Li, Zhengmeng Hou, Lei Zhou*, "Numerical study on hydraulic fracturing in tight gas formation in consideration of thermal effects and THM coupled processes", Journal of Petroleum Science and Engineering, Vol. 146, pp. 241-254, Oct. 2016. [Original Link](https://www.sciencedirect.com/science/article/pii/S0920410516301504) (**CAS Journal Ranking Q2Top, 42 citations on Google Scholar**)
+9.        **Wentao Feng**, Patrick Were, Mengting Li, Zhengmeng Hou, Lei Zhou*, "Numerical study on hydraulic fracturing in tight gas formation in consideration of thermal effects and THM coupled processes", Journal of Petroleum Science and Engineering, Vol. 146, pp. 241-254, Oct. 2016. [Original Link](https://www.sciencedirect.com/science/article/pii/S0920410516301504) (**CAS Journal Ranking Q2Top, 55 citations on Google Scholar**)
 <br>
 <br> 
 
