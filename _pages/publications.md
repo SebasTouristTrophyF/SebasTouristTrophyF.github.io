@@ -7,10 +7,13 @@ author_profile: true
 
 2026
 ----
-1. Zhuoyao Liu, Yang Liu, **Wentao Feng**, Shudong Huang*, "PCSR: Pseudo-label Consistency-Guided Sample Refinement for Noisy Correspondence Learning", in Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26), Jan. 2026. (**CCF-A**)
-2. Jindi Lv, Yuhao Zhou, Yuxin Tian, Qing Ye*, **Wentao Feng**, Jiancheng Lv, "HyperNAS: Enhancing Architecture Representation for NAS Predictor via Hypernetwork", in Proceedings of the 43rd Annual IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2026), Feb. 2026. (**CCF-A**)
-3. Yifan Tang, Jianfeng Liu*, Jinbing Wei, Honghao Yuan, Danli Li, **Wentao Feng**, "Structure-constrained semi-supervised segmentation of complex geomaterial CT images", International Journal of Rock Mechanics and Mining Sciences, Jan. 2026. (**CAS Journal Ranking Q1Top**)
-4. Yongcheng Liu, Rui Huang, Jingwen Yu, Ming Hu*, **Wentao Feng\***, Jizhe Zhou, Qing Ye, Shudong Huang, Jiancheng Lv, "Neural operator methods integrating mathematical and physical knowledge", Journal of Sichuan University (Natural Science Edition), Vol. 63(1), pp. 100-110, Dec. 2025.
+1. Yifan Tang, Jianfeng Liu\*, Jinbing Wei, Chao Ma, Yang Wu, Honghao Yuan, Wentao Feng, "A Physics-Informed Weakly Supervised Model for Multi-Source Rock Damage Evolution under Cyclic Loading", Journal of Rock Mechanics and Geotechnical Engineering, pp. 1-27, May 2025. (**CAS Journal Ranking Q1Top**)
+2. Jindi Lv<sup>1</sup>, Aoyu Li<sup>1</sup>, Yuhao Zhou, Zheng Zhu, Xiaofeng Wang, Qing Ye\*, Yueqi Duan, **Wentao Feng\***, Jiancheng Lv, "Spatial-Aware Reduction Framework: Towards Efficient and Faithful Visual State Space Models", in Proceedings of the 43rd International Conference on Machine Learning (ICML 2026), Jul. 2026. (**CCF-A**)
+3. Yang Liu, **Wentao Feng**, Shu-Dong Huang\*, Yalan Ye, Jiancheng Lv, "Intra-Modal Neighbors Never Lie: Rectifying Inter-Modal Noisy Correspondence via Graph-Based Intra-Modal Reasoning", in Proceedings of the 43rd International Conference on Machine Learning (ICML 2026), Jul. 2026. (**CCF-A**)
+4. Zhuoyao Liu, Yang Liu, **Wentao Feng**, Shudong Huang*, "PCSR: Pseudo-label Consistency-Guided Sample Refinement for Noisy Correspondence Learning", in Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26), Jan. 2026. (**CCF-A**)
+5. Jindi Lv, Yuhao Zhou, Yuxin Tian, Qing Ye*, **Wentao Feng**, Jiancheng Lv, "HyperNAS: Enhancing Architecture Representation for NAS Predictor via Hypernetwork", in Proceedings of the 43rd Annual IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2026), Feb. 2026. (**CCF-A**)
+6. Yifan Tang, Jianfeng Liu*, Jinbing Wei, Honghao Yuan, Danli Li, **Wentao Feng**, "Structure-constrained semi-supervised segmentation of complex geomaterial CT images", International Journal of Rock Mechanics and Mining Sciences, Jan. 2026. (**CAS Journal Ranking Q1Top**)
+7. Yongcheng Liu, Rui Huang, Jingwen Yu, Ming Hu*, **Wentao Feng\***, Jizhe Zhou, Qing Ye, Shudong Huang, Jiancheng Lv, "Neural operator methods integrating mathematical and physical knowledge", Journal of Sichuan University (Natural Science Edition), Vol. 63(1), pp. 100-110, Dec. 2025.
 
 2025
 ----
