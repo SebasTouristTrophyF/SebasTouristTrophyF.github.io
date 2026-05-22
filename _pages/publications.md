@@ -13,7 +13,7 @@ author_profile: true
 4. Zhuoyao Liu, Yang Liu, **Wentao Feng**, Shudong Huang*, "PCSR: Pseudo-label Consistency-Guided Sample Refinement for Noisy Correspondence Learning", in Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26), Jan. 2026. (**CCF-A**)
 5. Jindi Lv, Yuhao Zhou, Yuxin Tian, Qing Ye*, **Wentao Feng**, Jiancheng Lv, "HyperNAS: Enhancing Architecture Representation for NAS Predictor via Hypernetwork", in Proceedings of the 43rd Annual IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2026), Feb. 2026. (**CCF-A**)
 6. Yifan Tang, Jianfeng Liu*, Jinbing Wei, Honghao Yuan, Danli Li, **Wentao Feng**, "Structure-constrained semi-supervised segmentation of complex geomaterial CT images", International Journal of Rock Mechanics and Mining Sciences, Jan. 2026. (**CAS Journal Ranking Q1Top**)
-7. Yongcheng Liu, Rui Huang, Jingwen Yu, Ming Hu*, **Wentao Feng\***, Jizhe Zhou, Qing Ye, Shudong Huang, Jiancheng Lv, "Neural operator methods integrating mathematical and physical knowledge", Journal of Sichuan University (Natural Science Edition), Vol. 63(1), pp. 100-110, Dec. 2025.
+7. Yongcheng Liu, Rui Huang, Jingwen Yu, Ming Hu*, **Wentao Feng\***, Jizhe Zhou, Qing Ye, Shudong Huang, Jiancheng Lv, "Neural operator methods integrating mathematical and physical knowledge", Journal of Sichuan University (Natural Science Edition), Vol. 63(1), pp. 100-110, Dec. 2025. (**Ei Compendex**)
 
 2025
 ----
@@ -45,7 +45,7 @@ author_profile: true
 ----
 1. Shudong Huang<sup>1</sup>, Hongjie Wu<sup>1</sup>, Yazhou Ren, Ivor Tsang, Zenglin Xu, **Wentao Feng\***, Jiancheng Lv\*, "Multi-view Subspace Clustering on Topological Manifold", in Proceedings of the Advances in Neural Information Processing Systems 35 (NeurIPS 2022) Main Conference Track, pp. 1-12, Nov. 2022. (**CCF-A**)
 2. Muhammad Haris, Michael Z. Hou, **Wentao Feng\***, Faisal Mehmood, Ammar bin Saleem, "A regenerative Enhanced Geothermal System for heat and electricity production as well as energy storage", Renewable Energy, Vol. 197, pp. 342-358, Sep. 2022. (**CAS Journal Ranking Q1Top**)
-3. Zhengmeng Hou, **Wentao Feng***, "An Integrated Framework to Better Fit Future Energy Systems—Clean Energy Systems Based on Smart Sector Coupling (ENSYSCO)", Advanced Engineering Sciences, Vol. 54(1), pp. 5-15, Jan. 2022. 
+3. Zhengmeng Hou, **Wentao Feng***, "An Integrated Framework to Better Fit Future Energy Systems—Clean Energy Systems Based on Smart Sector Coupling (ENSYSCO)", Advanced Engineering Sciences, Vol. 54(1), pp. 5-15, Jan. 2022. (**Ei Compendex**)
 
 2021
 ----
