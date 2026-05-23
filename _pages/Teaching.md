@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /Teaching/
 author_profile: true
 ---
-Undergraduate Courses:
+Undergraduate Courses:<br>
 Discrete Mathematics (bilingual):
 =======
 College of Computer Science, Sichuan University, 2022-2023 Autumn.<br>
@@ -23,7 +23,7 @@ Information Systems Security:
 =======
 College of Computer Science, Sichuan University, 2025-2026 Spring.
 
-Graduate Courses:
+Graduate Courses:<br>
 Engineering Ethics:
 =======
 College of Computer Science, Sichuan University, 2023-2024 Autumn.<br>
