@@ -7,7 +7,7 @@ author_profile: true
 Master's Graduate:
 =======
 Ming Hu   Master of Science   Sep. 2023 - Jun. 2026   AI4Science (PDE), Smart Energy<br> 
-(Next Chapter: Promotion at the College of Electrical Engineering of Sichuan University)
+(Next Chapter: Promotion at the College of Electrical Engineering, Sichuan University)
 
 Rui Huang   Master of Science   Sep. 2023 - Jun. 2026   AI4Science (co-advised with Prof. Shudong Huang)<br>
 (Next Chapter: Building a career in the industry)
