@@ -6,9 +6,11 @@ author_profile: true
 ---
 Graduate Students:
 =======
-Ming Hu     M.Sc. Student   Sep. 2023 - Jun. 2026   AI4Science (PDE), Smart Energy
+Ming Hu     M.Sc. Student   Sep. 2023 - Jun. 2026   AI4Science (PDE), Smart Energy\br 
+(Next Chapter: Promotion at the College of Electrical Engineering of Sichuan University)
 
-Rui Huang     M.Sc. Student   Sep. 2023 - Jun. 2026   AI4Science (co-advised with Prof. Shudong Huang)
+Rui Huang     M.Sc. Student   Sep. 2023 - Jun. 2026   AI4Science (co-advised with Prof. Shudong Huang)\br
+(Next Chapter: Building a career in the industry)
 
 Yongcheng Liu     M.Sc. Student   Sep. 2024 -   AI4Science (PDE), 3D Reconstruction (co-advised with Prof. Jizhe Zhou)
 
