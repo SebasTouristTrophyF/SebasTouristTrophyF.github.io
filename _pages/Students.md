@@ -28,7 +28,11 @@ Zimo Zhao   Sep. 2026 -   AI4Science (PDE)
 
 Zhenglan Zhou   Sep. 2026 -   AI4Science (PDE)
 
-Yuxin Si   Sep. 2026 -   AI4Science (PDE)
+Zehao Wu   Sep. 2026 -   AI4DUSE
+
+Yuyan Sun   Sep. 2026 -   Industrial Intelligence
+
+Yuxin Si   Sep. 2026 -        (co-advised with Prof. Xuejiao Zhao)
 
 Undergraduate Students:
 =======
