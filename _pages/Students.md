@@ -37,4 +37,5 @@ Yuxin Si   Sep. 2026 -        (co-advised with Prof. Xuejiao Zhao)
 Undergraduate Students:
 =======
 Aoyu Li   2025 -   Computer Vision
+
 Haoxuan Song   2026 -   AI4Science
