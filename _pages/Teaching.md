@@ -8,7 +8,8 @@ Discrete Mathematics (bilingual, undergraduate course):
 =======
 College of Computer Science, Sichuan University, 2022-2023 Autumn.<br>
 College of Computer Science, Sichuan University, 2023-2024 Autumn.<br>
-College of Computer Science, Sichuan University, 2025-2026 Autumn.
+College of Computer Science, Sichuan University, 2025-2026 Autumn.<br>
+College of Computer Science, Sichuan University, 2026-2027 Autumn.
 
 Principles of Operating Systems (English, undergraduate course):
 =======
