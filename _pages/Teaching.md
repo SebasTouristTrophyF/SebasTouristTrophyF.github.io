@@ -26,7 +26,8 @@ College of Computer Science, Sichuan University, 2025-2026 Spring.
 Engineering Ethics (graduate course):
 =======
 College of Computer Science, Sichuan University, 2023-2024 Autumn.<br>
-College of Computer Science, Sichuan University, 2025-2026 Autumn.
+College of Computer Science, Sichuan University, 2025-2026 Autumn.<br>
+College of Computer Science, Sichuan University, 2026-2027 Autumn.
 
 Cutting-Edge Technologies and Professional Practice (graduate course):
 =======
